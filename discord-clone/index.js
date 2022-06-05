@@ -1,3 +1,4 @@
+AOS.init();
 const navLink = document.querySelector("#navLinks");
 
 function closeMenu() {
